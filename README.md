@@ -34,5 +34,12 @@ https://multiplicationgames.netlify.app/
 ![multiplicationscreen3](https://user-images.githubusercontent.com/22257930/88288796-e77ba680-cd11-11ea-8047-8922b9ef6129.png)
 
 
+## Contributors ✨
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/sahiljanbandhu"><img src="https://avatars1.githubusercontent.com/u/22257930?s=400&u=82dd26f8b3949dad170252a5f6e2ea23d328ceec&v=4" width="100px;" alt=""/><br /><sub><b>Sahil Janbandhu</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Pratham82"><img src="https://avatars2.githubusercontent.com/u/13178080?s=400&u=826ac1fadf2af8b5ef8b1fd09c932ea163854106&v=4" width="100px;" alt=""/><br /><sub><b>Prathmesh Mali</b></sub></a></td>
+  </tr>
+</table>
 
-Developed by: Sahil Janbandhu
+
