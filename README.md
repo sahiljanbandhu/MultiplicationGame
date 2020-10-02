@@ -1,6 +1,6 @@
 # MultiplicationGame
 ### Description
-The main purpose of the project was to build an interactive application - Multiplication Game. The game demonstrates programming with JavaScript.
+The main purpose of the project was to build an interactive application - Multiplication Game. The game demonstrates programming with JavaScript 
 
 ### Live App
 https://multiplicationgames.netlify.app/
